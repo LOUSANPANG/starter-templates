@@ -29,6 +29,7 @@
 ### NPM
 [`starter-ts`](https://github.com/LOUSANPANG/starter-ts)<br>
 [`father`](https://github.com/LOUSANPANG/father)<br>
+[`starter-turbo`](https://github.com/LOUSANPANG/starter-turbo)<br>
 <br>
 <br>
 
@@ -51,7 +52,6 @@
 
 ### CI
 [`turbo`](https://github.com/vercel/turbo)<br>
-[`nx`](https://github.com/nrwl/nx)<br>
 [`commander`](https://github.com/tj/commander.js)<br>
 <br>
 <br>
