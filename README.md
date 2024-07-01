@@ -22,6 +22,7 @@
 [`RuoYi-Vue3`](https://github.com/yangzongzhuan/RuoYi-Vue3)<br>
 [`vue-h5-template`](https://github.com/sunniejs/vue-h5-template)<br>
 [`micro-front-template`](https://github.com/a1029563229/micro-front-template)<br>
+[`starter-uniapp`](https://github.com/LOUSANPANG/starter-uniapp)
 <br>
 <br>
 
