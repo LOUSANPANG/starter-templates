@@ -20,6 +20,7 @@
 [`umi`](https://github.com/umijs/umi)<br>
 [`vitesse`](https://github.com/LOUSANPANG/vitesse)<br>
 [`RuoYi-Vue3`](https://github.com/yangzongzhuan/RuoYi-Vue3)<br>
+[tov-template](https://github.com/LOUSANPANG/tov-template)<br>
 [`vue-h5-template`](https://github.com/sunniejs/vue-h5-template)<br>
 [`micro-front-template`](https://github.com/a1029563229/micro-front-template)<br>
 [`starter-uniapp`](https://github.com/LOUSANPANG/starter-uniapp)
