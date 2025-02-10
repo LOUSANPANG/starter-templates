@@ -65,3 +65,9 @@
 [`UI - unocss`](https://github.com/unocss/unocss)<br>
 <br>
 <br>
+
+
+### 独立开发/技术栈收录 🐫
+[`awesome-indie-hacker-tools`](https://github.com/iAmCorey/awesome-indie-hacker-tools)<br>
+<br>
+<br>
