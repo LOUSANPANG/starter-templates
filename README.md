@@ -30,6 +30,7 @@
 
 ### NPM
 [`starter-ts`](https://github.com/LOUSANPANG/starter-ts)<br>
+[`starter-monorepo`](https://github.com/LOUSANPANG/starter-monorepo)<br>
 [`father`](https://github.com/LOUSANPANG/father)<br>
 [`starter-turbo`](https://github.com/LOUSANPANG/starter-turbo)<br>
 [`starter-cli`](https://github.com/LOUSANPANG/starter-cli)<br>
