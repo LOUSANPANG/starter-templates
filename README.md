@@ -29,6 +29,7 @@
 
 
 ### NPM
+[`starter-vite-ts`](https://github.com/LOUSANPANG/starter-vite-ts)<br>
 [`starter-ts`](https://github.com/LOUSANPANG/starter-ts)<br>
 [`starter-monorepo`](https://github.com/LOUSANPANG/starter-monorepo)<br>
 [`father`](https://github.com/LOUSANPANG/father)<br>
